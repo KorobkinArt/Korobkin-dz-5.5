@@ -4,7 +4,6 @@
 //
 //  Created by Артем Коробкин on 30/9/23.
 //
-
 import Foundation
 //1
 UserDefaults.standard.setValue("settings", forKey: "mySettings")
